@@ -12,7 +12,7 @@
 6. Go back to the first icon in menu, select the `NamNguyenToken.sol` file, then press ctrl + S to compile (You do not need to pay attention to warnings)
 7. Go to the third icon again, in `Contract` select `NamNguyenToken - NamNguyenToken.sol`, then click the arrow to the right of the `Deploy` box.
 
-![image](https://user-images.githubusercontent.com/38404536/118003914-306d1c00-b373-11eb-83c7-8266478eaa71.png)
+![image](https://user-images.githubusercontent.com/38404536/118007678-8d1e0600-b376-11eb-956c-861fe0d0734c.png)
 
 8. Fill in your Token's information in these boxes (name; symbol; number of decimal places after the comma; total number of Tokens). Example:
 
@@ -27,3 +27,4 @@ It's a pity that you cannot choose the icon for the token via smart contract. Yo
 
 It tells you that you need to pay a small amount in order to deploy your contract. The more money you spend, the more likely your contract will be deployed.
 12. Wait about 30 minutes, then check your token in https://ropsten.etherscan.io/ if you use Testnet and https://etherscan.io/ if you use Mainnet
+13. Enjoy
