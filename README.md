@@ -1,10 +1,15 @@
 # Deploy_Token_ERC20
 ---------------------------------
 1. Create MetaMask Wallet and connect it to MetaMask Extension of Chrome: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
 2. Go to https://remix.ethereum.org/, then delete all the files and folders you see in the project
+
 3. Import 3 file of this project to Remix. You can change the name of `NamNguyenToken.sol` to the name that you want
+
 4. Look in the menu on the left, select the second icon, then select the compiler version is 0.4.25
+
 ![image](https://user-images.githubusercontent.com/38404536/118002780-2860ac80-b372-11eb-8d58-c58a72b26af0.png)
+
 5. Select the third icon in menu, then choose the Environment is `Injected Web3`. This action will automatically connect Remix to your registered MetaMask Wallet.
 
 ![image](https://user-images.githubusercontent.com/38404536/118003193-8e4d3400-b372-11eb-9b3e-4b767408fa5e.png)
@@ -30,6 +35,7 @@ It's a pity that you cannot choose the icon for the token via smart contract. Yo
 ![image](https://user-images.githubusercontent.com/38404536/118005524-a9b93e80-b374-11eb-89ab-7a85245c7c20.png)
 
 It tells you that you need to pay a small amount in order to deploy your contract. The more money you spend, the more likely your contract will be deployed.
-12. Wait about 30 minutes, then check your token in https://ropsten.etherscan.io/ if you use Testnet and https://etherscan.io/ if you use Mainnet
+
+12. Wait about 30 minutes, then check your Token in https://ropsten.etherscan.io/ if you use Testnet and https://etherscan.io/ if you use Mainnet
 
 13. Enjoy
